@@ -1,1 +1,2 @@
 Hello, world!
+Oi, turma. O que vcs estão achando do git?
